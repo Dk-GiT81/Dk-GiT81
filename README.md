@@ -4,7 +4,7 @@
 🚀 Passionately delving into craft captivating digital experiences and
    developing the Skill set.
    
-🌱 Actively seeking collaborations on open-source projects & 
+🌱 Actively seeking collaborations on projects & 
    I aim to learn and contribute to meaningful initiatives.
 
 🔗 LinkedIn: https://www.linkedin.com/in/darshan-kakad-687a012a6
