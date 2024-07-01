@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshan&label=Profile%20views&color=0e75b6&style=flat" alt="darshan" /> </p>
 
-- 🌱 I’m currently learning **DSA & Web Development**
+- 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **dgkakad09@gmail.com**
 
