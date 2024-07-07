@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 📫 How to reach me **dgkakad09@gmail.com**
+- 📫 Reach me through: **dgkakad09@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
